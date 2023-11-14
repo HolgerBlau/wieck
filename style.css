@@ -45,36 +45,45 @@ body{font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Robo
 
 
 h1{margin-left: 10%;color: red;font-size: 3rem;}
-p{width: 60%;margin-left: 10%; color:gray;font-weight: 800;}
+
+h3{margin-left: 4%;color: rgb(255, 0, 111);font-size: 2rem;}
+
+p{ color:gray;font-weight: 400;}
 
 .überschrift{margin-left: 10%;color: red;font-size: 3rem; margin-top: 10%;}
 
 .bildtext{
   display: flex;
-  justify-content: space-evenly;
-  flex-wrap: ;
-
-  background-color: darkgray;
+  
+ 
+  
+margin-top: 10%;
+  margin-bottom: 10%;
+ 
 }
 
+.text{
+display: flex;
+flex-direction: column;
+justify-content: space-evenly;
 
+padding: 3%;
 
-
-
-
-.bilderbox{
-  display: flex;
-  flex-direction: column;
-  max-width: fit-content;
-  margin-left: 10%;
+ 
 }
+
+.leer{width: 100%;height: 300px;background-color: #333;}
+
+.porträt{ height: auto;}
+
+
 
 
 
 
 
 .footer {
-    background-color: #333;
+    background-color: #070000;
     color: #fff;
     padding: 20px;
     display: flex;
