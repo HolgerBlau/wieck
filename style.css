@@ -49,6 +49,19 @@ p{width: 60%;margin-left: 10%; color:gray;font-weight: 800;}
 
 .überschrift{margin-left: 10%;color: red;font-size: 3rem; margin-top: 10%;}
 
+.bildtext{
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: ;
+
+  background-color: darkgray;
+}
+
+
+
+
+
+
 .bilderbox{
   display: flex;
   flex-direction: column;
