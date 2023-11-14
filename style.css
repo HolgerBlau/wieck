@@ -139,6 +139,21 @@ padding: 3%;
 /* Tablet Styles */
 @media only screen and (min-width: 601px) and (max-width: 1024px) {
   /* Füge hier deine Styles für Tablets hinzu */
+  .bildtext{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+   
+
+  margin-top: 10%;
+    margin-bottom: 10%;
+   
+  }
+
+
+
+
 }
 
 /* Desktop Styles */
