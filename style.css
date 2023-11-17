@@ -241,7 +241,7 @@ padding: 3%;
     left: 50%;
     transform: translate(-50%, -50%);
     color: #fff; /* Textfarbe für die Überschrift */
-    font-size: 6em;word-spacing: 0.3em; /* Schriftgröße anpassen */
+    font-size: 4.8em;letter-spacing: 0.5em; /* Schriftgröße anpassen */
     /* Weitere Stile wie Schriftart, Schriftstärke, etc. können nach Bedarf hinzugefügt werden */
   }
 
