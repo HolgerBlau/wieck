@@ -217,7 +217,15 @@ padding: 3%;
    
   }
 
-
+  .container h1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff; /* Textfarbe für die Überschrift */
+    font-size: 3em; /* Schriftgröße anpassen */
+    /* Weitere Stile wie Schriftart, Schriftstärke, etc. können nach Bedarf hinzugefügt werden */
+  }
 
 
 }
@@ -225,4 +233,16 @@ padding: 3%;
 /* Desktop Styles */
 @media only screen and (min-width: 1025px) {
   /* Füge hier deine Styles für Desktop-Geräte hinzu */
+
+
+  .container h1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff; /* Textfarbe für die Überschrift */
+    font-size: 6em; /* Schriftgröße anpassen */
+    /* Weitere Stile wie Schriftart, Schriftstärke, etc. können nach Bedarf hinzugefügt werden */
+  }
+
 }
