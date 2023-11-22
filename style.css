@@ -67,6 +67,8 @@ h3{margin-left: 4%;color: rgb(255, 0, 111);font-size: 2rem;}
 
 p{ color:gray;font-weight: 400;}
 
+a{margin-left: 7%;}
+
 .überschrift{margin-left: 10%;color: red;font-size: 3rem; margin-top: 10%;}
 
 .bildtext{
@@ -219,14 +221,13 @@ padding: 3%;
 
   .container h1 {
     position: absolute;
-    top: 50%;
+    top: 70%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: #fff; /* Textfarbe für die Überschrift */
-    font-size: 3em; /* Schriftgröße anpassen */
+    color: #3a0505; /* Textfarbe für die Überschrift */
+    font-size: 2em;letter-spacing: 0.5em; /* Schriftgröße anpassen */
     /* Weitere Stile wie Schriftart, Schriftstärke, etc. können nach Bedarf hinzugefügt werden */
   }
-
 
 }
 
